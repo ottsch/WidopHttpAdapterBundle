@@ -16,7 +16,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "3.*",
-        "ottsch/http-adapter": "1.1.*"
+        "ottsch/http-adapter": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
