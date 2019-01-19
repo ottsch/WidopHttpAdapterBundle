@@ -14,11 +14,9 @@
             "email": "geloen.eric@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "symfony/framework-bundle": "3.*",
-        "ottsch/http-adapter": "dev-master"
+        "ottsch/http-adapter": "1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
@@ -36,7 +34,7 @@
     "target-dir": "Widop/HttpAdapterBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.2-dev"
+            "dev-master": "1.3-dev"
         }
     }
 }
